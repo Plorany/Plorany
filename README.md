@@ -1,4 +1,12 @@
-### Hi there 👋
+class plorany{
+  constructor(...options) {
+    this.height = "1.86"
+    this.weight = "77"
+    this.type = "human"
+    this.job = "student/part time developer"
+    this.sex = "male"
+  }
+}
 
 <!--
 **Plorany/Plorany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
