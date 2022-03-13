@@ -1,12 +1,8 @@
-class plorany{
-  constructor(...options) {
-    this.height = "1.86"
-    this.weight = "77"
-    this.type = "human"
-    this.job = "student/part time developer"
-    this.sex = "male"
-  }
-}
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+      
+
+       visitors
 
 <!--
 **Plorany/Plorany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
