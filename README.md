@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![Plorany'i ziyaret edenler](https://visitor-badge.glitch.me/badge?page_id=plorany)
 
       
 
