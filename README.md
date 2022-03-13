@@ -2,6 +2,18 @@
 
 ![Plorâny](https://i.pinimg.com/originals/06/ef/ca/06efca71fda7d7e344d18815bb589b5f.png)
 
+```js
+class plorany{
+  constructor(...options) {
+    this.height = "1.86"
+    this.weight = "77"
+    this.type = "human"
+    this.job = "part time developer/student"
+    this.sex = "male"
+  }
+}
+```
+
 
 ## Developer, editor, designer and moderator.
 
