@@ -5,10 +5,10 @@
 ```js
 class plorany{
   constructor(...options) {
-    this.height = "1.86"
+    this.height = "1.88"
     this.weight = "77"
     this.type = "human"
-    this.job = "part time developer/student"
+    this.job = "full stack developer/entrepreneur"
     this.sex = "male"
   }
 }
@@ -17,10 +17,10 @@ class plorany{
 
 ## Developer, editor, designer and moderator.
 
-- 👨‍💻 Active developer on Discord
-- 🌱 Active editor on Twitch
-- 👯 Active moderator on Twitch, NimoTV, Discord
-- 😻 p5ssy enjoyer
+- 👨‍💻 Active developer on Sestia Yazılım A.Ş.
+- 🌱 Active editor on Twitch, Youtube
+- 👯 Active CEO, Founder on Ucuzpin Elektronik Hizmetler
+- 😻 future father
 
 ### Connect with me:
 
@@ -41,6 +41,6 @@ class plorany{
 
 ### 📕 Latest Projects
 
-Coming soon ;)
+https://www.ucuzpin.com
 
 ![Plorany's GitHub stats](https://github-readme-stats.vercel.app/api?username=Plorany&show_icons=true)
