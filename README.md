@@ -1,4 +1,4 @@
-# Hi there, I'm Plorâny 👋 
+# Hi there, I'm Plorany 👋 
 
 ![Plorâny](https://i.pinimg.com/originals/06/ef/ca/06efca71fda7d7e344d18815bb589b5f.png)
 
@@ -8,17 +8,16 @@ class plorany{
     this.height = "1.88"
     this.weight = "77"
     this.type = "human"
-    this.job = "full stack developer/entrepreneur"
+    this.job = "entrepreneur, founder, full-stack developer"
     this.sex = "male"
   }
 }
 ```
 
 
-## Developer, editor, designer and moderator.
+## Developer, entrepreneur
 
-- 👨‍💻 Active developer on Sestia Yazılım A.Ş.
-- 🌱 Active editor on Twitch, Youtube
+- 👨‍💻 Active founder on Sestia Yazılım
 - 👯 Active CEO, Founder on Ucuzpin Elektronik Hizmetler
 - 😻 future father
 
